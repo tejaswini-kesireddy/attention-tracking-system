@@ -1,4 +1,4 @@
-# ATTENTION TRACKING SYSTEM 
+# Attention Tracking System 
 
 A real-time computer vision system that monitors student attentiveness by analyzing eye gaze and head movements. It is designed to help educators gain insights into student engagement during lectures or online sessions.
 
