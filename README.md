@@ -15,7 +15,7 @@ This project uses **Python**, **MediaPipe**, **OpenCV**, **TensorFlow**, **NumPy
 Make sure you have Python 3.8+ installed. Then install the required libraries:
 
 ```bash
-  pip install opencv-python mediapipe tensorflow numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ---
